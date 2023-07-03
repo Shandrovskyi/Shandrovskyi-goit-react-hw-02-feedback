@@ -1,0 +1,18 @@
+.clickButtons {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.1s ease;
+  margin-right: 10px;
+  margin-bottom: 50px;
+}
+
+.clickButtons:hover {
+  background-color: orange;
+}
